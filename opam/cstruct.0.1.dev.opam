@@ -1,7 +1,7 @@
 opam-version: "1"
 
 package "cstruct" {
-  version:    "0.9.dev"
+  version:    "0.1.dev"
   maintainer: "anil@recoil.org"
   build: [
     [ "make" "build" ]
