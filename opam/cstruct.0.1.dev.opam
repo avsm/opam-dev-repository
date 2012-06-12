@@ -2,7 +2,7 @@ opam-version: "1"
 
 package "cstruct" {
   version:    "0.9dev"
-  maintainer: "anil@recoil.org",
+  maintainer: "anil@recoil.org"
   build: [
     [ "make" "build" ]
     [ "make" "install" ]
